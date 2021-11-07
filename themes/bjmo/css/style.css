@@ -26,6 +26,13 @@ body {
 
 .main {
     flex: 1 0 auto;
+    margin: 0 300px;
+    font-family: sans-serif;
+    font-size: 18px;
+}
+
+.main p{
+    margin: 1em 0em;
 }
 
 .header, .footer {
@@ -87,7 +94,7 @@ body {
     font-family: sans-serif;
     line-height: 1.5rem;
     color: #444;
-    background-color: pink;
+    background-color: #FaFaFe;
 }
 
 p, td, th, li, dd {
@@ -146,11 +153,24 @@ blockquote {
     border-left: 0.5em solid #f5f5f5;
 }
 
-/*Styling från föreläsning 03/11*/
+.drum_pic {
+    width: 60%;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
 
-.black-box {
-    box-sizing: content-box;
-    color: black;
-    width: 600px;
-    height: 100px;
+.mff_pic {
+    width: 10%;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.head_home {
+    padding: 8px;
+}
+
+.logo{
+    width: 500px;
 }

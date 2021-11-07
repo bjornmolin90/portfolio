@@ -1,9 +1,9 @@
 ---
-Logo: image/leaf_256x256.png
+Logo: image/logga.png
 Tagline: My portfolio.
 Social:
-    - title: Link till sidans github repo.
-      url: https://github.com/dbwebb-se/design-v3
+    - title: Länk till mitt github repo.
+      url: https://github.com/bjornmolin90/portfolio
       icon: github
 
 ---
