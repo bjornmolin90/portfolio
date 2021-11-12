@@ -3,10 +3,10 @@ Title: Home
 Description: This is our index page.
 ---
 
-Min sida {.head_home}
+Min sida {.head-home}
 ==========================
 
-![Trummor](image/drum.jpg) {.drum_pic}
+![Trummor](image/drum.jpg) {.drum-pic}
 
 Jag heter Björn Molin och är 31 år gammal. Jag växte upp utanför Malmö och har de senaste 8 åren bott i just Malmö. Jag har spelat en hel del genom åren, både dator och konsol men programmering och webbdesign är helt nytt för mig.  
 
@@ -14,4 +14,4 @@ Jag har ett stort musikintresse, dels lyssnar jag mycket på musik och går på 
 
 Utöver musiken har jag ett väldigt stort fotbollsintresse. Sjävklart är det MFF som gäller!
 
-![Malmö-logo](image/MFF.png) {.mff_pic}
+![Malmö-logo](image/MFF.png) {.mff-pic}

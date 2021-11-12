@@ -1,0 +1,40 @@
+* {
+    font-family: $font-content;
+    color: $font-color;
+}
+
+h1,
+h2,
+h3 {
+    font-family: $font-heading;
+    margin-bottom: 0.6em;
+    font-weight: bold;
+}
+
+body {
+    line-height: 1.5rem;
+}
+
+p,
+td,
+th,
+li,
+dd {
+    text-align: justify;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+}
+
+.main p {
+    margin: 1em 0;
+}
+
+.head-home {
+    padding: 8px;
+    text-align: center;
+}
+
+ol,
+ul {
+    padding-left: 1.5em;
+}
