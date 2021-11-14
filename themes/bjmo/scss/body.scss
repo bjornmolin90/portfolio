@@ -7,7 +7,20 @@ body {
 
 .main {
     flex: 1 0 auto;
-    margin: 0 300px;
-    font-family: sans-serif;
-    font-size: 18px;
+    margin: 0 15%;
+    min-width: 30%;
+}
+
+@media (max-width: 767px) {
+    .main p {
+        text-align: center;
+    }
+
+    .main {
+        flex-direction: row;
+        flex-wrap: wrap;
+        margin-right: auto;
+        margin-left: auto;
+    }
+
 }

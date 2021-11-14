@@ -3,6 +3,10 @@
     color: $font-color;
 }
 
+html {
+    font-size: 100%;
+}
+
 h1,
 h2,
 h3 {
@@ -12,7 +16,7 @@ h3 {
 }
 
 body {
-    line-height: 1.5rem;
+    line-height: $line-height;
 }
 
 p,
@@ -20,21 +24,30 @@ td,
 th,
 li,
 dd {
-    text-align: justify;
+    text-align: center;
     overflow-wrap: break-word;
     word-wrap: break-word;
 }
 
-.main p {
-    margin: 1em 0;
+p {
+    font-size: $font-size-p;
+    margin-bottom: calc(1.35*1.4rem);
+    letter-spacing: 1px;
 }
 
-.head-home {
-    padding: 8px;
+h1 {
+    font-size: $font-size-h1;
+    margin-bottom: calc(1.35*1.4*2rem);
     text-align: center;
 }
 
 ol,
 ul {
     padding-left: 1.5em;
+}
+
+@media (min-width: 64em) {
+    html {
+        font-size: 112.5%;
+    }
 }

@@ -1,5 +1,5 @@
 ---
-Logo: image/logga.png?width=65%
+Logo: image/logga.png
 Tagline: My portfolio.
 Social:
     - title: Länk till mitt github repo.

@@ -3,7 +3,7 @@ Title: Home
 Description: This is our index page.
 ---
 
-Min sida {.head-home}
+Min sida
 ==========================
 
 ![Trummor](image/drum.jpg) {.drum-pic}
