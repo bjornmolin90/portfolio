@@ -1,0 +1,46 @@
+.main.tech-article {
+    margin-left: 20px;
+}
+
+.tech-article {
+    display: flex;
+    gap: 60px;
+    align-items: flex-start;
+    margin-bottom: 20px;
+}
+
+.sidebar {
+    flex-direction: column;
+}
+
+.sidebar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    text-align: left;
+}
+
+.sidebar li {
+    text-align: left;
+}
+
+.article h1 {
+    margin-top: 0;
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+.article p {
+    text-align: left;
+}
+
+@media screen and (max-width: 767px) {
+    .sidebar {
+        display: none !important;
+    }
+
+    .main.tech-article {
+        margin-right: 20px !important;
+    }
+}
