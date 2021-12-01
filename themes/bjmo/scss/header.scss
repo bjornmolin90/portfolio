@@ -6,4 +6,6 @@
 
 .header {
     flex: 0 0 auto;
+    background-color: $header-background-color;
+    border-bottom: 1px solid #222;
 }

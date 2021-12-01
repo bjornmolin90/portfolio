@@ -3,7 +3,6 @@
     gap: 30px;
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: 140px repeat(3, 240px);
-
     margin-bottom: 30px;
     max-width: 960px;
 }
@@ -22,12 +21,9 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #f6eed9;
-    box-shadow: 5px 5px #edd7c0;
+    background-color: $box-color;
+    box-shadow: 5px 5px $box-shadow-color;
 }
-
-
-
 
 @media screen and (max-width: 767px) {
     .landingpage {
@@ -42,7 +38,7 @@
         grid-column: span 1;
 
     }
-    
+
     .main.landingpage {
         margin-left: 20px;
         margin-right: 20px;

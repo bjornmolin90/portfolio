@@ -1,6 +1,6 @@
 .title,
 .logo {
-    padding-bottom: 3em;
+    padding-bottom: 1em;
 }
 
 @media (max-width: 767px) {
@@ -19,9 +19,13 @@
 }
 
 .title * {
-    color: #111;
+    color: $font-color;
 }
 
 .title p {
     font-style: italic;
+}
+
+.title h1 {
+    margin-bottom: 10px;
 }

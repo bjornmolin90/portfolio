@@ -3,6 +3,7 @@
  * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
  */
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300&family=Source+Sans+Pro:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap");
 .fa,
 .fas,
 .far,
@@ -6464,7 +6465,7 @@ code {
   padding: 0.1em 0.2em;
   border: 1px solid #ccc;
   border-radius: 0.3em;
-  background: #f5f5f5;
+  background: #3b2929;
   font-family: monospace;
   font-size: 0.85rem;
   line-height: 1.9824;
@@ -6474,7 +6475,7 @@ pre {
   padding: 0 1em;
   border: 1px solid #ccc;
   border-radius: 0.3em;
-  background: #f5f5f5;
+  background: #3b2929;
 }
 
 pre code {
@@ -6496,7 +6497,7 @@ img {
   display: flex;
   margin-left: auto;
   margin-right: auto;
-  filter: grayscale(20%);
+  filter: grayscale(70%);
 }
 
 .mff-pic {
@@ -6504,12 +6505,12 @@ img {
   display: flex;
   margin-left: auto;
   margin-right: auto;
-  filter: grayscale(0%);
+  filter: grayscale(60%);
 }
 
 * {
-  font-family: "Source Sans Pro", sans-serif;
-  color: #201020;
+  font-family: "Open Sans", sans-serif;
+  color: #a578dc;
 }
 
 html {
@@ -6565,7 +6566,7 @@ ul {
   justify-content: center;
   border-top: 1px solid #222;
   flex: 0 0 auto;
-  background-color: #9d9db3;
+  background-color: #6e6e6e;
 }
 
 .footer a {
@@ -6581,7 +6582,7 @@ body {
   display: flex;
   flex-direction: column;
   height: 100%;
-  background-color: #e8ffe0;
+  background-color: #202020;
 }
 
 .main {
@@ -6610,7 +6611,7 @@ body {
 
 .header {
   flex: 0 0 auto;
-  background-color: #fafafe;
+  background-color: #3b2929;
   border-bottom: 1px solid #222;
 }
 
@@ -6634,7 +6635,7 @@ body {
   }
 }
 .title * {
-  color: #201020;
+  color: #a578dc;
 }
 
 .title p {
@@ -6664,7 +6665,7 @@ body {
 
 .nav a,
 .nav-toggle {
-  color: #201020;
+  color: #a578dc;
 }
 
 .nav-toggle {
@@ -6725,8 +6726,8 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #a5b3a1;
-  box-shadow: 5px 5px #9d9db3;
+  background-color: #6e4d4d;
+  box-shadow: 5px 5px #3b2929;
 }
 
 @media screen and (max-width: 767px) {
