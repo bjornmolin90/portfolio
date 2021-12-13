@@ -1,5 +1,5 @@
 ---
-Title: Report
+Title: Analysis
 Description: This is my report page.
 Template: analyses
 ---
