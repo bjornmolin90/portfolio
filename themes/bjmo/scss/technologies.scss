@@ -25,6 +25,10 @@
     box-shadow: 5px 5px $box-shadow-color;
 }
 
+.tech-box h2 {
+    font-size: 1.6em;
+}
+
 @media screen and (max-width: 767px) {
     .landingpage {
         margin-bottom: 30px;

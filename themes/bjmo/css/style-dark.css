@@ -6469,6 +6469,7 @@ code {
   font-family: monospace;
   font-size: 0.85rem;
   line-height: 1.9824;
+  color: #ccc;
 }
 
 pre {
@@ -6476,6 +6477,7 @@ pre {
   border: 1px solid #ccc;
   border-radius: 0.3em;
   background: #3b2929;
+  color: #ccc;
 }
 
 pre code {
@@ -6640,6 +6642,7 @@ body {
 
 .title p {
   font-style: italic;
+  font-size: 1.5em;
 }
 
 .title h1 {
@@ -6656,7 +6659,7 @@ body {
   justify-content: flex-end;
   padding: 1em 0;
   list-style: none;
-  font-size: 1.3em;
+  font-size: 1.5em;
 }
 
 .nav ul li {
@@ -6726,8 +6729,12 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #6e4d4d;
+  background-color: #4e2d2d;
   box-shadow: 5px 5px #3b2929;
+}
+
+.tech-box h2 {
+  font-size: 1.6em;
 }
 
 @media screen and (max-width: 767px) {
@@ -6794,6 +6801,79 @@ body {
     margin-right: 20px !important;
   }
 }
+.gallery-container {
+  display: grid;
+  gap: 30px;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(3, 1fr);
+  margin-bottom: 30px;
+  max-width: 1200px;
+}
+
+embed,
+object,
+video {
+  max-width: 100%;
+}
+
+.embed-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+  margin-bottom: 30px;
+}
+
+.embed-container iframe,
+.embed-container object,
+.embed-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+@media screen and (max-width: 767px) {
+  .gallery-container {
+    margin-bottom: 30px;
+    row-gap: 30px;
+    grid-template-columns: repeat(1, 1fr);
+    grid-template-rows: repeat(9, 1fr);
+    justify-items: center;
+  }
+
+  .main.gallery-container {
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+}
+embed,
+object,
+video {
+  max-width: 100%;
+}
+
+.load-stats iframe,
+.load-stats object,
+.load-stats embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.load-stats {
+  position: relative;
+  padding-bottom: 30%;
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+  margin-bottom: 30px;
+}
+
 html {
   height: 100%;
 }

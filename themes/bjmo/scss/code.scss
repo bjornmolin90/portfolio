@@ -7,6 +7,7 @@ code {
     font-family: monospace;
     font-size: 0.85rem;
     line-height: 1.9824;
+    color: $code-text-color;
 }
 
 pre {
@@ -14,6 +15,7 @@ pre {
     border: 1px solid #ccc;
     border-radius: 0.3em;
     background: $code-block-color;
+    color: $code-text-color;
 }
 
 pre code {
