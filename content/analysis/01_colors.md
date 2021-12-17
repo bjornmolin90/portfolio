@@ -22,9 +22,13 @@ Resultat
 
 ###Elgiganten
 
-![Elgiganten](../image/Elgiganten.png?w=700)
+Undersökningen ger inget entydigt resultat. Min bedömning är dock att de har använt sig av komplementfärger i sitt färgschema. Jag finner två nyanser av blått på sidan liknande de jag finner i det färgschemat.
+![Elgiganten](../image/Elgiganten.png?w=700) {.analysis-pic}
+Även den djupröda tonen har likheter med vad som finnes i komplementfärgerna, dock är det en något mer cerise ton som återfinns där. Det är också möjligt att det är en slump då flera färger skiljer sig markant åt från vad som återfinns i färgschemat.
 
-<table style="border-spacing: 4px; border-collapse: separate">
+Elgiganten har roboto som fontfamilj både i rubrikerna och i brödtexten, men även priserna. Priserna är dock i fetstil och har ett större typsnitt. Det är sans serif som är genomgående över hela sidan. Det som skiljer sig åt är kampanjlänkarna som innehåller bilder där typsnittet är betydligt större.
+
+<table class="analysis-table" style="border-spacing: 4px; border-collapse: separate">
 <tr>
 <td style="height: 50px; width: 50px; background-color: #88d000">
 <td style="height: 50px; width: 50px; background-color: #ffffff">
@@ -36,15 +40,15 @@ Resultat
 </tr>
 </table>
 
-Undersökningen ger inget entydigt resultat. Min bedömning är dock att de har använt sig av komplementfärger i sitt färgschema. Jag finner två nyanser av blått på sidan liknande de jag finner i det färgschemat. Även den djupröda tonen har likheter med vad som finnes i komplementfärgerna, dock är det en något mer cerise ton som återfinns där. Det är också möjligt att det är en slump då flera färger skiljer sig markant åt från vad som återfinns i färgschemat.
-
-Elgiganten har roboto som fontfamilj både i rubrikerna och i brödtexten, men även priserna. Priserna är dock i fetstil och har ett större typsnitt. Det är sans serif som är genomgående över hela sidan. Det som skiljer sig åt är kampanjlänkarna som innehåller bilder där typsnittet är betydligt större.
-
 ###Mediamarkt
 
-![Mediamarkt](../image/Mediamarkt.png?w=700))
+Mediamarkt verkar använda sig av ett monokromt färgschema. På sidan har de både en mörkare röd färg och en rosa färg som båda återfinns i liknande färger i det monokroma färgschemat.
+![Mediamarkt](../image/Mediamarkt.png?w=700) {.analysis-pic}
+De har även en tydlig utgångsfärg som även återfinns i logan på stora delar av sidan.
 
-<table style="border-spacing: 4px; border-collapse: separate">
+De använder sig av sourcesanspro över nästan hela sidan. Rubrikerna i texterna är förhållandevis små vilket även brödtexten är. All text är i sans serif. Det är priserna som är i fokus och de har både ett större typsnitt, står i fetstil och är kursiva. Priserna har även en annan fontfamilj som heter pricemm. Jag utgår från att det är en custom font de har. I övrigt är det kampanjerna som har större text och länkar vidare till en produktkategori med sänkta priser.
+
+<table class="analysis-table" style="border-spacing: 4px; border-collapse: separate">
 <tr>
 <td style="height: 50px; width: 50px; background-color: #df0000">
 <td style="height: 50px; width: 50px; background-color: #eb6668">
@@ -55,15 +59,17 @@ Elgiganten har roboto som fontfamilj både i rubrikerna och i brödtexten, men �
 </tr>
 </table>
 
-Mediamarkt verkar använda sig av ett monokromt färgschema. På sidan har de både en mörkare röd färg och en rosa färg som båda återfinns i liknande färger i det monokroma färgschemat. De har även en tydlig utgångsfärg som även återfinns i logan på stora delar av sidan.
-
-De använder sig av sourcesanspro över nästan hela sidan. Rubrikerna i texterna är förhållandevis små vilket även brödtexten är. All text är i sans serif. Det är priserna som är i fokus och de har både ett större typsnitt, står i fetstil och är kursiva. Priserna har även en annan fontfamilj som heter pricemm. Jag utgår från att det är en custom font de har. I övrigt är det kampanjerna som har större text och länkar vidare till en produktkategori med sänkta priser.
-
 ###Webhallen
 
-![Webhallen](../image/Webhallen.png?w=700))
+Jag har inte hittat något uppenbart färgschema på Webhallens webplats. Värt att nämna är att de verkar ha stylat om sin sida med ett jultema.
+Jag tycker fortfarande att det är relevant att undersöka den då de bör vara mån om sin design oavsett.
+![Webhallen](../image/Webhallen.png?w=700) {.analysis-pic}
+Men det är inte deras vanliga design som pryder sidan vid tidpunkten för min undersökning.
 
-<table style="border-spacing: 4px; border-collapse: separate">
+Även webbhallen använder sig genomgående av sans serif. De har fontfamiljen averta på både rubriker, brödtext och priser. De skiljer sig åt då de har en blå textfärg på produkterna när du navigerar på hemsidan.
+Priserna är inte lika utstickande som på de övriga två webplatserna. Dock har de en bild på prissäkningen på ett antal produkter som sticker ut istället för att lägga fokuset på det faktiska priset.
+
+<table class="analysis-table" style="border-spacing: 4px; border-collapse: separate">
 <tr>
 <td style="height: 50px; width: 50px; background-color: #273143">
 <td style="height: 50px; width: 50px; background-color: #1a1a1d">
@@ -73,10 +79,6 @@ De använder sig av sourcesanspro över nästan hela sidan. Rubrikerna i textern
 <td style="height: 50px; width: 50px; background-color: #0070ba">
 </tr>
 </table>
-
-Jag har inte hittat något uppenbart färgschema på Webhallens webplats. Värt att nämna är att de verkar ha stylat om sin sida med ett jultema. Jag tycker fortfarande att det är relevant att undersöka den då de bör vara mån om sin design oavsett. Men det är inte deras vanliga design som pryder sidan vid tidpunkten för min undersökning.
-
-Även webbhallen använder sig genomgående av sans serif. De har fontfamiljen averta på både rubriker, brödtext och priser. De skiljer sig åt då de har en blå textfärg på produkterna när du navigerar på hemsidan. Priserna är inte lika utstickande som på de övriga två webplatserna. Dock har de en bild på prissäkningen på ett antal produkter som sticker ut istället för att lägga fokuset på det faktiska priset.
 
 Analys
 -----------------------

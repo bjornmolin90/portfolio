@@ -1,5 +1,5 @@
 ---
-Title: CSS
+Title: css
 Description: This is my CSS page.
 Template: technology
 ---

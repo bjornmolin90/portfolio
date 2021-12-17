@@ -23,6 +23,35 @@
     align-items: center;
     background-color: $box-color;
     box-shadow: 5px 5px $box-shadow-color;
+    text-transform: uppercase;
+}
+
+.css {
+    box-shadow: 15px 15px 10px $box-shadow-color;
+}
+
+.git {
+    box-shadow: 10px 10px 10px $box-shadow-color;
+}
+
+.python {
+    box-shadow: 15px 15px 10px $box-shadow-color;
+}
+
+.php {
+    box-shadow: 10px 10px 10px $box-shadow-color;
+}
+
+.sqlite {
+    box-shadow: 10px 10px 10px $box-shadow-color;
+}
+
+.html {
+    box-shadow: 5px 5px 10px $box-shadow-color;
+}
+
+.javascript {
+    box-shadow: 5px 5px 10px $box-shadow-color;
 }
 
 .tech-box h2 {

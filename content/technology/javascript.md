@@ -1,5 +1,5 @@
 ---
-Title: JavaScript
+Title: javascript
 Description: This is my JavaScript page.
 Template: technology
 ---

@@ -5,7 +5,7 @@ Template: analysis
 ---
 # Load
 
-Rapporten som följer mäter tre Företags hemsidors laddningstid och användarhet. Syftet är att jämföra sidorna inbördes men även se om det finns uppenbara förbättringar att göra för respektive företag..
+Rapporten som följer mäter tre företags hemsidors laddningstid och användarhet. Syftet är att jämföra sidorna inbördes men även se om det finns uppenbara förbättringar att göra för respektive företag.
 
 Urval
 -----------------------
@@ -33,13 +33,13 @@ Det som främst sticker ut hos Elgiganten är deras kampanj-sida. Den laddade ex
 
 ###Mediamarkt
 
-![Mediamarkt](../image/Mediamarkt.png?w=700))
+![Mediamarkt](../image/Mediamarkt.png?w=700)
 
 Mediamarkt var överlag lite långsammare än konkurrenterna men hade inget som stack ut som Elgigantens kampanjsida. De var dock väldigt långsamma för mobil där time to interactive sticker ut. Det gällde även de andra men Mediamarkt var relativt sett sämst där och det är något de definitivt kan förbättra.
 
 ###Webhallen
 
-![Webhallen](../image/Webhallen.png?w=700))
+![Webhallen](../image/Webhallen.png?w=700)
 
 Webhallens hem-sida förde över väldigt mycket data och hade nog kunnat hålla ner det lite. De hade dock inte alls samma problem med page-speed som Elgiganten hade med sin kampanj-sida även om det inte var ett särskilt bra resultat för dem heller.
 

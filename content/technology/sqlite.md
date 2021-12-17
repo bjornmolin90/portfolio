@@ -1,5 +1,5 @@
 ---
-Title: SQLite
+Title: sqlite
 Description: This is my SQLite page.
 Template: technology
 ---

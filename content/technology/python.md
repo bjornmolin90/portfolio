@@ -1,5 +1,5 @@
 ---
-Title: Python
+Title: python
 Description: This is my Python page.
 Template: technology
 ---

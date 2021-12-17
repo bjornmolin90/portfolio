@@ -1,5 +1,5 @@
 ---
-Title: GIT
+Title: git
 Description: This is my GIT page.
 Template: technology
 ---

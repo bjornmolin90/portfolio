@@ -1,5 +1,5 @@
 ---
-Title: HTML
+Title: html
 Description: This is my HTML page.
 Template: technology
 ---

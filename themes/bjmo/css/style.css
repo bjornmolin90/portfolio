@@ -6730,6 +6730,35 @@ body {
   align-items: center;
   background-color: #a5b3a1;
   box-shadow: 5px 5px #9d9db3;
+  text-transform: uppercase;
+}
+
+.css {
+  box-shadow: 15px 15px 10px #9d9db3;
+}
+
+.git {
+  box-shadow: 10px 10px 10px #9d9db3;
+}
+
+.python {
+  box-shadow: 15px 15px 10px #9d9db3;
+}
+
+.php {
+  box-shadow: 10px 10px 10px #9d9db3;
+}
+
+.sqlite {
+  box-shadow: 10px 10px 10px #9d9db3;
+}
+
+.html {
+  box-shadow: 5px 5px 10px #9d9db3;
+}
+
+.javascript {
+  box-shadow: 5px 5px 10px #9d9db3;
 }
 
 .tech-box h2 {
@@ -6769,6 +6798,10 @@ body {
   flex-direction: column;
 }
 
+.sidebar h2 {
+  margin-top: 15px;
+}
+
 .sidebar ul {
   list-style-type: none;
   margin: 0;
@@ -6789,6 +6822,13 @@ body {
 
 .article p {
   text-align: left;
+}
+
+.article {
+  border: 1px solid;
+  padding: 15px;
+  margin-top: 20px;
+  border-radius: 25px;
 }
 
 @media screen and (max-width: 767px) {
@@ -6871,6 +6911,21 @@ video {
   overflow: hidden;
   max-width: 100%;
   margin-bottom: 30px;
+}
+
+.analysis-pic {
+  float: right;
+  max-width: 50%;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+.analysis-table {
+  margin-bottom: 25px;
+}
+
+.analysis-box {
+  text-transform: capitalize;
 }
 
 html {
